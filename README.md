@@ -2,4 +2,4 @@
 A small dice app in react-native.
 
 ## samples
-![alt image][https://github.com/mayuraitavadekar/react-native-dice-app/blob/master/first.png]
+![alt text](https://github.com/mayuraitavadekar/react-native-dice-app/blob/master/first.png "Logo Title Text 1")
